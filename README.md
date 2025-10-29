@@ -1,4 +1,4 @@
-# Secure Backup Utility
+# Secure Backup Utility - Beta
 
 | <img width="1280" height="640" alt="SecureBackup" src="https://github.com/user-attachments/assets/7b820a89-9471-4738-8e4b-da238d7a373c" /> |
 |---|
