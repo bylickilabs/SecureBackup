@@ -1,10 +1,7 @@
 # Secure Backup Utility - Beta
 
-| <img width="1280" height="640" alt="SecureBackup" src="https://github.com/user-attachments/assets/7b820a89-9471-4738-8e4b-da238d7a373c" /> |
-|---|
-
-| ![python](https://github.com/user-attachments/assets/0481710f-1d08-4334-927b-1f6732e34dc3) |
-|---|
+| <img width="1280" height="640" alt="SecureBackup" src="https://github.com/user-attachments/assets/7b820a89-9471-4738-8e4b-da238d7a373c" /> | <img width="1280" height="640" alt="python" src="https://github.com/user-attachments/assets/9254febf-e983-4620-a54f-afa5c51eedf7" /> |
+|---|---|
 
 A lightweight, bilingual (German/English) desktop application designed for secure file backup operations with an intuitive graphical interface and clear workflow.
 
